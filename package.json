@@ -1,0 +1,23 @@
+{
+  "name": "Redux---All-the-way",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhisheksharma1123/Redux---All-the-way.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhisheksharma1123/Redux---All-the-way/issues"
+  },
+  "homepage": "https://github.com/abhisheksharma1123/Redux---All-the-way#readme",
+  "dependencies": {
+    "redux": "^4.1.2"
+  }
+}
